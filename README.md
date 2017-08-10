@@ -15,5 +15,5 @@ Ini adalah website pertama saya, dibuat untuk memenuhi salah satu tugas di fase 
 1. Saya suka semua hal yang berhubungan dengan dunia IT.
 2. Hobi dengan kegiatan Outdoor.
 3. Senang mempelajari hal baru.
-4. Road To Become *Fullstack Web Developer*. :game_die:   
+4. Road To Become *Fullstack Web Developer*.   
 Follow My Social Media - [Facebook](https://www.facebook.com/nandiraspatur) / [Instagram](https://www.instagram.com/nandiraspatur)
