@@ -1,0 +1,81 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #232323;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.mainwrap {
+  margin: auto;
+  width: 50%;
+}
+
+.login {
+  padding: 25px 20px;
+  margin: 20px auto;
+  width: 80%;
+  height:140px;
+  background: #fff;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.zonegame {
+  padding: 25px 20px;
+  margin: auto;
+  width: 80%;
+  height:200px;
+  background: #fff;
+  text-align: center;
+  border-radius: 10px;
+}
+
+label{
+  font-size: 12pt;
+  color: #333;
+}
+
+p {
+  margin: 10px 0;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 8px;
+  width: 95%;
+  background: #efefef;
+  border: 0;
+  font-size: 10pt;
+  margin: 6px 0px;
+  border-radius: 3px;
+}
+
+.tombol {
+  background: #3498db;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 8px;
+  margin-top: 10px;
+}
+
+.tombol:hover {
+  background: #2f73a1;
+  color: #fff;
+}
+
+footer p{
+  text-align: center;
+  font-size: 10px;
+  color: #999;
+}

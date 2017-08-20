@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Invisible Race Car Game</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="mygame.js"></script>
+</head>
+<body>
+  <h2>INVISIBLE RACE CAR GAME</h2>
+  <div class="mainwrap">
+      <div class='login'id="main">
+          <h4>Silakan isi data berikut untuk mulai bermain.</h4>
+          <form id="form1" name="form1" onsubmit="return false">
+              <label for="nama">Nama Pembalap: </label>
+              <input type="text" id="nama" name="nama">
+              <label for="nama">Mobil akan dipilih secara acak.</label><br/>
+              <input type="submit" value="Mulai Bermain" onclick="biodata()" class="tombol">
+          </form>
+      </div>
+      <div class="zonegame" id="zonegame">
+          <h4>Game Status.</h4>
+          <p id="tampil"></p>
+          <p id="tampil2"></p>
+          <p id="tampil3"></p>
+          <p id="tampil4"></p>
+          <p id="tampil5"></p>
+      </div>
+  </div>
+  <footer>
+    <p>NandiraSPatur - 2017</p>
+  </footer>
+</body>
+</html>
